@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "UserSettingsAbstration",
+        "repositoryURL": "https://github.com/bogdanovkv/UserSettingsAbstration.git",
+        "state": {
+          "branch": null,
+          "revision": "e1a3e7d1596c7efef9d0e47bc29a8d9c41ce69b6",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "UserSettingsRepositoryAbstraction",
+        "repositoryURL": "https://github.com/bogdanovkv/UserSettingsRepositoryAbstraction.git",
+        "state": {
+          "branch": null,
+          "revision": "e34ce7c936d6646d43e76e00df2cab3416e55d54",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
